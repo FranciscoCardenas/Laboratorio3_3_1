@@ -1,0 +1,4 @@
+#Tue Apr 10 09:08:48 MDT 2018
+base.0=/Users/franciscoemanuelcardenasramos/Downloads/Lab3.3.1/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
